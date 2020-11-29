@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scorpion">
+        <item>Survival</item>
+        <item>Nonstop</item>
+        <item>Emotionless</item>
+        <item>Elevate</item>
+        <item>God\'s Plan</item>
+    </string-array>
+    <string-array name="abbeyRoad">
+        <item>Come Together</item>
+        <item>Something</item>
+        <item>Maxwell\'s Silver Hammer</item>
+        <item>Oh! Darling</item>
+        <item>Octopus\'s Garden</item>
+    </string-array>
+    <string-array name="divide">
+        <item>Eraser</item>
+        <item>Castle on the Hill</item>
+        <item>Dive</item>
+        <item>Shape of you</item>
+        <item>Perfect</item>
+    </string-array>
+</resources>
